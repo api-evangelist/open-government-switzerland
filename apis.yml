@@ -23,6 +23,10 @@ apis:
       - type: Documentation
         url: https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html
 common:
+  - type: VulnerabilityDisclosure
+    url: security/open-government-switzerland-vulnerability-disclosure.yml
+  - type: DomainSecurity
+    url: security/open-government-switzerland-domain-security.yml
   - type: Website
     url: https://handbook.opendata.swiss/de/content/nutzen/api-nutzen.html
   - type: PublicAPIsListing
